@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class Box : MonoBehaviour
 {
-    public GameObject PlacePos;
     public static Box instance;
+
     public bool HasKey = false;
 
     private float lerp = 0f, speed = 5f;
