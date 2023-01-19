@@ -1057,7 +1057,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eec123321b3b2704a97334a10f7120bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Portal: {fileID: 7341026059735198494, guid: 73715d86245725044ab6007188d50f25, type: 3}
+  Model: {fileID: 7341026059735198494, guid: 73715d86245725044ab6007188d50f25, type: 3}
   Canvas: {fileID: 876366570}
   RaycastManager: {fileID: 94003014}
   isSpawned: 0
